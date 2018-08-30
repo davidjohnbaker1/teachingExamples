@@ -21,4 +21,4 @@ Each statement is modified accordingly for each job, but the central message for
 * [Cover Letter](https://www.overleaf.com/read/skgcbrzbpmjr)
 * [Teaching Statement](https://docs.google.com/document/d/1HGqT7HvH-ec61YbrAV_2M3_uLsn2A3j2EUaZU43Lyk8/edit?usp=sharing)
 * [Research Statement](https://docs.google.com/document/d/1g4EtH4564dw5KUYER44DWGc8XMErvNMIMHxo1gTpJKY/edit?usp=sharing)
-* [Diversity Statement]
+* [Diversity Statement](https://docs.google.com/document/d/1tSNplaqmsfceqY0jlYliKurCDPY4fpQ5fh4V7EhDAPA/edit?usp=sharing)
