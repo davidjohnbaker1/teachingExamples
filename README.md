@@ -16,7 +16,7 @@ The book is still under development, but you can see the latest render of the bo
 ## Core Statements
 
 Below are my core teaching, research, and diversity statements often requested for academic jobs.
-Each statement is modified accordingly for each job, but the central message for each remainds similar.
+Each statement is modified accordingly for each job, but the central message for each remains similar.
 
 * [Cover Letter](https://www.overleaf.com/read/skgcbrzbpmjr)
 * [Teaching Statement](https://docs.google.com/document/d/1HGqT7HvH-ec61YbrAV_2M3_uLsn2A3j2EUaZU43Lyk8/edit?usp=sharing)
