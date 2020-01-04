@@ -4,7 +4,7 @@ This repo has a sketched out lesson plan for the Hypothesis Testing lecture used
 Lesson materials were originally developed by [David John Baker](@davidjohnbaker).
 In its current form, the materials span 90 minutes with considerable time built in for discussion questions and for students to come up with answers to larger prompts.
 
-Slides can be found and edited [here] (https://docs.google.com/presentation/d/1yL1H43aQogjjB9StQtdl0-1Y6JnOrXzNb8oyKfZGMNo/edit?usp=sharing) but please make a copy before changing!
+Slides can be found and edited [here](https://docs.google.com/presentation/d/1yL1H43aQogjjB9StQtdl0-1Y6JnOrXzNb8oyKfZGMNo/edit?usp=sharing) but please make a copy before changing!
 
 ## Lesson Goals
 
@@ -38,8 +38,8 @@ By knowing what tools you are using, you can ask better questions because you kn
 ### Scientific Method
 
 * Point out typical diagram and explain what people probably heard in school
-* Think, background, experiemnt, try again, progress
-* Yes, this is general framework, but don't be decieved!
+* Think, background, experiment, try again, progress
+* Yes, this is general framework, but don't be deceived!
 * See entire history of science to see that we mostly don't know what we are doing
 	- Slide shows KUHN and Structure of Scientific Revolutions
 	- AKA guy who gave us terms like "normal science" and "paradigm shift"
@@ -62,7 +62,7 @@ Learning Goal:
 
 * Popper answers DQ1 with demarcation principle:
 	- Scientific questions are ones that can be proven wrong 
-	- Harder to prove wrong that mecury in retrograde will affect someone's mood
+	- Harder to prove wrong that mercury in retrograde will affect someone's mood
 	- Easier to prove wrong that items dropped at same heights will fall at different rates. 
 
 * Idea of YES/NO prove wrong is DEMARCATION
@@ -78,7 +78,7 @@ Now that we have what is and is not SCIENCE, how do we build theories?
 
 Two ways:
 	1. Deduction (Roger example, works fine) 
-	2. Induction (All swans are white? Not nessecarily so...) 
+	2. Induction (All swans are white? Not necessarily so...) 
 
 #### Induction
 
@@ -100,7 +100,7 @@ Literally read off slide here to make sure I don't mess it up.
 Can't just build evidence FOR a theory (problem of induction)
 This happens all the time in science.
 How do we get around problem?
-Exploit asymetry between data for theory and being critical of it.
+Exploit asymmetry between data for theory and being critical of it.
 Enter NHST.
 
 Note we need to set up two worlds for NHST.
@@ -108,9 +108,9 @@ One world we know something is happening (H1).
 Other world, nothing is happening (H0). 
 If we can build up evidence against one, only left with logic of other being not not true.
 
-Learing Goal
+Learning Goal
 
-* [ ] Describe the logic of null hypothesis significance testing as it relates to Induction/Popper
+* [X] Describe the logic of null hypothesis significance testing as it relates to Induction/Popper
 
 ### Example
 
@@ -126,7 +126,7 @@ If veganism does NOT actually have good effect on cholestorl (which we can't kno
 * NOTE HERE that NHST relies of FREQUENTIST way of thinking about the world.
 * Experiments have to happen over and over again to find out what is true about the world! 
 
-If veganism DOES have good effect on cholestrol, then H1 is TRUE.
+If veganism DOES have good effect on cholesterol, then H1 is TRUE.
 So we can find something and that is TRUE (which it really is) or fail to find something when it is true.
 
 Basically we can mess up in two ways if we take this binary approach to truth.
@@ -154,9 +154,9 @@ Can also call it Gaussian (after Gauss).
 
 So given what is known about finding observations in the tail, idea is that if we see anything in the tail, we have good reason to believe that it is surprising (the 12 foot tall person for one tail, 1 foot tall person two tail).
 
-What we then want to do is give both our H0 and H1 a distrbution and see if they are far enough apart from another in order to write your mom and say "look, I found something!" knowing quite well you could commit either a Type I or Type II error.
+What we then want to do is give both our H0 and H1 a distribution and see if they are far enough apart from another in order to write your mom and say "look, I found something!" knowing quite well you could commit either a Type I or Type II error.
 
-H0 and H1 capture some sort of measurment. 
+H0 and H1 capture some sort of measurement. 
 
 So how do we do this??
 Need to compare signal to the noise.
@@ -174,7 +174,7 @@ Again, it's mean subtract another mean divided by error.
 
 Learning Goal: 
 
-* [ ] Identify what is a test statistic (signal over noise)  
+* [X] Identify what is a test statistic (signal over noise)  
 
 ### Steps of Hypothesis Testing 
 
