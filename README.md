@@ -1,30 +1,35 @@
-# teachingExamples
+# Teaching Portfolio 
+
+> Last Updated Nov 19th 2020
 
 From Aural Skills to Z Scores!
 
-This page hosts examples of example syllabi, teaching materials, as well as my current project in development of writing a statistics handbook for the LSU Graduate Psychology Statistics courses.
+This page hosts:
 
-Just click on any of the folders above to see examples of my teaching materials!
-
-During my first two years at Louisiana State University I was employed by the Music School and taught as Instructor of Record on Foundations of Music Study, Aural Skills III (Chromaticism) and Aural Skills IV (Post-Tonal). 
-After my second year I worked as a graduate assistant for the Intermediate and Multivariate Statistics courses.
-As part of my assistantship I created an online, interactive book so future students wanting to learn R with the current materials could supplement their own education.
-
-![](img/typesetexample.png)
+* Syllabi
+* Teaching Materials
+* Professional Documents 
 
 ## Core Statements
 
 Below are my core teaching, research, and diversity statements often requested for academic jobs.
 Each statement is modified accordingly for each job, but the central message for each remains similar.
 
-* [Cover Letter](https://www.overleaf.com/read/skgcbrzbpmjr)
+* [Science Cover Letter](https://www.overleaf.com/read/gyhsgdfqrhdy)
+* [Music Theory Cover Letter](https://www.overleaf.com/read/wvbqrknxjtyq)
+
 * [Teaching Statement](https://docs.google.com/document/d/1HGqT7HvH-ec61YbrAV_2M3_uLsn2A3j2EUaZU43Lyk8/edit?usp=sharing)
 * [Research Statement](https://docs.google.com/document/d/1g4EtH4564dw5KUYER44DWGc8XMErvNMIMHxo1gTpJKY/edit?usp=sharing)
 * [Diversity Statement](https://docs.google.com/document/d/1tSNplaqmsfceqY0jlYliKurCDPY4fpQ5fh4V7EhDAPA/edit?usp=sharing)
-* [Running CV](https://www.overleaf.com/read/dtxhkrwmjkds) Note that this is just a giant list! I prune it when applying for jobs!
+
+* [Curriculum Vitae](https://www.overleaf.com/read/dtxhkrwmjkds) 
+* [Resume](https://www.overleaf.com/read/cmfdgjygzgnd)
+
 
 ## Online Experience 
 
 * [Public Lecture on Recommendation Systems](https://www.youtube.com/watch?v=xkMqgWHn36w)
+* [Crash Course on Clustering Algorithms](https://youtu.be/EKTVTfAXVIo)
+* [Introduction to R for Pythonistas](https://www.youtube.com/watch?v=OLbBwr6yono&t=3s)
 
-> More Online courses to be posted!
+![](img/typesetexample.png)
